@@ -1,0 +1,1 @@
+- [simple neovim debugging setup (in 10 minutes)](https://youtu.be/lyNfnI-B640)
