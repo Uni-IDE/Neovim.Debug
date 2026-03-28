@@ -1,2 +1,6 @@
 # Neovim.Debug
-Debugging setup for Neovim. # Options: GDB, LLDB
+Debugging setup for Neovim.
+
+# Option:
+## GDB
+## LLDB
